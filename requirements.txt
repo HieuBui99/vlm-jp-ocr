@@ -1,0 +1,6 @@
+beautifulsoup4
+unsloth
+pdfminer.six
+numpy
+pdf2image
+opencv-python
